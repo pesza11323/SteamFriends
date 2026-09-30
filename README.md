@@ -19,9 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name                         | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/8c453d5db88ee90afc7fcc17ec0c1fb6e2c31d61.jpg) | Skye                         | [76561199835032431](https://steamcommunity.com/profiles/76561199835032431/) | ❌           | 2026-07-16 04:23:30 | 2026-09-30 17:06:12 |          |
-| ![](https://avatars.steamstatic.com/ed9689868c9054b710ccc5ec634d81dcdc79e97c.jpg) | アズリムの奇妙冒険                    | [76561199488929659](https://steamcommunity.com/profiles/76561199488929659/) | ❌           | 2026-07-05 07:57:20 | 2026-09-30 17:06:12 |          |
-| ![](https://avatars.steamstatic.com/2953851316704cad8def139083b8ca5fc0ee0989.jpg) | Fammo                        | [76561198241616158](https://steamcommunity.com/profiles/76561198241616158/) | ❌           | 2026-07-07 04:18:53 | 2026-09-30 17:06:12 |          |
+
 | ![](https://avatars.steamstatic.com/df7027ebad3f8384043fcf190f83a93ba52266dd.jpg) | Hami                         | [76561198807799908](https://steamcommunity.com/profiles/76561198807799908/) | ✅           | 2021-07-04 05:06:53 |                     |          |
 | ![](https://avatars.steamstatic.com/e117669ce3b02aeb3a763231e10f87e4307bcf3e.jpg) | 4uki                         | [76561198809623203](https://steamcommunity.com/profiles/76561198809623203/) | ✅           | 2021-08-17 18:52:02 |                     |          |
 | ![](https://avatars.steamstatic.com/c032e4cdc3613a06a7f0f9ce75c223b170d4deab.jpg) | 夕颜茹羽                         | [76561198890459377](https://steamcommunity.com/profiles/76561198890459377/) | ✅           | 2022-04-18 11:21:36 |                     |          |
